@@ -1,4 +1,4 @@
-### Hello! I'm Erick Villegaz, I'm a Full Stack Web Dev, and basically.... welcome inside my brain! <img src="https://media.giphy.com/media/LpiVeIRgrqVsZJpM5H/giphy.gif" with="29px">
+### Hello! I'm Erick Villegaz, I'm a Full Stack Web Dev, and basically.... welcome inside my brain! <img src="https://media.giphy.com/media/LpiVeIRgrqVsZJpM5H/giphy.gif" width="29px">
 
 
 Here are some ideas to get you started:
