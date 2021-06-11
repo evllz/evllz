@@ -3,7 +3,7 @@
 
 Some stuff about me:
 
-- <img src="https://media.giphy.com/media/7Yi4Cn4064SOenKL4a/giphy.gif" width="50"> I’m currently working on personal projects using 
+- <img src="https://media.giphy.com/media/7Yi4Cn4064SOenKL4a/giphy.gif" width="50"> I’m currently working on personal projects using new frameworks to keep learning!
 - <img src="https://media.giphy.com/media/JVAOo25MQpArX6ycXq/giphy.gif" width="50"> I’m currently learning Vue.js to expand my knowledge in frontend!
 - <img src="https://media.giphy.com/media/kfPayPiTSdNZWmhyYY/giphy.gif" width="50"> So far I have skills in React, Redux, Node, Express, SQL and Python!
 - <img src="https://media.giphy.com/media/xuDBHw1WeObgP6vzVq/giphy.gif" width="50"> Let's connect in [LinkedIn](https://www.linkedin.com/in/erick-villegaz/) also sometimes I do post on [Tweeter](https://twitter.com/home)
