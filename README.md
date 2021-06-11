@@ -1,7 +1,7 @@
 ### Hello! I'm Erick Villegaz, I'm a Full Stack Web Dev, and basically.... welcome inside my brain! <img src="https://media.giphy.com/media/LpiVeIRgrqVsZJpM5H/giphy.gif" width="50px">
 
 
-Here are some ideas to get you started:
+Some stuff about me:
 
 - <img src="https://media.giphy.com/media/7Yi4Cn4064SOenKL4a/giphy.gif" width="50"> I’m currently working on personal projects using 
 - <img src="https://media.giphy.com/media/JVAOo25MQpArX6ycXq/giphy.gif" width="50"> I’m currently learning Vue.js to expand my knowledge in frontend!
