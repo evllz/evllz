@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hello! I'm Erick Villegaz, I'm a Full Stack Web Dev, and basicly.... welcome inside my brain! <a href="https://media.giphy.com/media/LpiVeIRgrqVsZJpM5H/giphy.gif"/> 
 
-<!--
-**evllz/evllz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
